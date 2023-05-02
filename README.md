@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pvanleortz
-- 👀 I’m interested in money
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning CENG
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me ██████████████████
